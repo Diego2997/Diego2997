@@ -3,7 +3,7 @@
 ![Desarrollador Full Stack (MERN)](https://camo.githubusercontent.com/2039ae89d64b1942fab3ef2f53f2e90537034b80ff4d0cafd19834d5b671f16d/68747470733a2f2f692e6962622e636f2f5834797039366d2f4d45524e2d537461636b2d446576656c6f706d656e742d616e642d436f6e73756c74696e672d53657276696365732e6a7067)
 
 
-Habilidades:
+Habilidades:                                                                                                                                                                  
 **Front**:  HTML / CSS/ JAVASCRIPT / REACT                                                                                                                                
 **Back**:   NODE / EXPRESS / MONGO   DB / MONGOOSE
 
