@@ -4,7 +4,7 @@
 
 
 Habilidades:
-**Front**:  HTML / CSS/ JAVASCRIPT / REACT
+**Front**:  HTML / CSS/ JAVASCRIPT / REACT                                                                                                                                
 **Back**:   NODE / EXPRESS / MONGO   DB / MONGOOSE
 
 - 🌱 Estoy aprendiendo React-Native 
