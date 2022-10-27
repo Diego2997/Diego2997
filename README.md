@@ -17,7 +17,7 @@
 
 <h2>Contacto</h2>
 
-- 📫 Cómo contactarme: diego.mercado1997@hotmail.com 
+- 📫 Cómo contactarme: fmercadodiego@gmail.com
 
 
 
