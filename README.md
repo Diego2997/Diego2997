@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcourses.nestjs.com%2Fimg%2Flogo.svg&tbnid=PLlMhlR5LpEL1M&vet=12ahUKEwj28fGX0IODAxVaTrgEHSfZDDYQMygAegQIARBS..i&imgrefurl=https%3A%2F%2Fcourses.nestjs.com%2F&docid=zEXNmFm7pLT90M&w=1983&h=966&itg=1&q=nestjs%20badge&ved=2ahUKEwj28fGX0IODAxVaTrgEHSfZDDYQMygAegQIARBS"/>
 </div>
 
 
