@@ -12,7 +12,12 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcourses.nestjs.com%2Fimg%2Flogo.svg&tbnid=PLlMhlR5LpEL1M&vet=12ahUKEwj28fGX0IODAxVaTrgEHSfZDDYQMygAegQIARBS..i&imgrefurl=https%3A%2F%2Fcourses.nestjs.com%2F&docid=zEXNmFm7pLT90M&w=1983&h=966&itg=1&q=nestjs%20badge&ved=2ahUKEwj28fGX0IODAxVaTrgEHSfZDDYQMygAegQIARBS"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/Typeform-262627.svg?style=for-the-badge&logo=Typeform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
+  
 </div>
 
 
